@@ -1,3 +1,5 @@
-<img width="2000" height="1200" alt="laravel-vue" src="https://github.com/user-attachments/assets/e26074f5-f037-46ab-b69d-379938435f43" />
+<img width="3000" height="1200" alt="laravel-vue-3000" src="https://github.com/user-attachments/assets/43ad90ce-c7de-4555-a092-cab24c3bef47" />
+
+
 
 **[laravel/framework](https://github.com/laravel/framework)** — contributor
